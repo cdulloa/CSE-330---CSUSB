@@ -1,0 +1,13 @@
+Script started on 2020-07-05 14:34:45-07:00 [TERM="xterm" TTY="/dev/pts/0" COLUMNS="80" LINES="17"]
+]0;006973376@csusb.edu@jb358-2:~/cse330/lab4[006973376@csusb.edu@jb358-2 lab4]$ ./lab4
+Enter the sequence:
+((()))(()x
+The parentheses are unbalanced
+]0;006973376@csusb.edu@jb358-2:~/cse330/lab4[006973376@csusb.edu@jb358-2 lab4]$ ./lab4
+Enter the sequence:
+((()))()()x
+The parentheses are balanced
+]0;006973376@csusb.edu@jb358-2:~/cse330/lab4[006973376@csusb.edu@jb358-2 lab4]$ exit
+exit
+
+Script done on 2020-07-05 14:35:32-07:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,22 @@
+Script started on 2020-06-30 19:55:52-07:00 [TERM="xterm" TTY="/dev/pts/0" COLUMNS="168" LINES="44"]
+]0;006973376@csusb.edu@jb358-2:~/cse330/lab1[006973376@csusb.edu@jb358-2 lab1]$ ./Lab1
+Enter the capacity of dynamic array : 10
+Enter Student ID : 1101
+Enter Student Name : Taylor
+Enter Student ID : 1102
+Enter Student Name : Smith
+Enter Student ID : 1103
+Enter Student Name : Alice
+Enter Student ID : 1104
+Enter Student Name : Tom
+Enter Student ID : 0
+
+The Studetns are :
+1101 Taylor
+1102 Smith
+1103 Alice
+1104 Tom
+]0;006973376@csusb.edu@jb358-2:~/cse330/lab1[006973376@csusb.edu@jb358-2 lab1]$ exit
+exit
+
+Script done on 2020-06-30 19:57:27-07:00 [COMMAND_EXIT_CODE="0"]

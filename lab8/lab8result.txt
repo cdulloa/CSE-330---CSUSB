@@ -1,0 +1,38 @@
+Script started on 2020-07-18 02:14:13-07:00 [TERM="xterm" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;006973376@csusb.edu@jb358-2:~/cse330/lab8[006973376@csusb.edu@jb358-2 lab8]$ ./lab8
+insert the values to SetOne (stop when entering 0): 
+5
+6
+2
+1
+7
+9
+4
+3
+8
+10
+0
+print the values: 
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 
+
+insert the values to SetTwo (stop when entering 0): 
+9
+10
+6
+8
+11
+12
+7
+13
+0
+print the values: 
+6, 7, 8, 9, 10, 11, 12, 13, 
+
+
+The union of two sets: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 
+The difference of two sets: 1, 2, 3, 4, 5, 
+The intersection of two sets: 6, 7, 8, 9, 10, 
+]0;006973376@csusb.edu@jb358-2:~/cse330/lab8[006973376@csusb.edu@jb358-2 lab8]$ exit
+exit
+
+Script done on 2020-07-18 02:15:44-07:00 [COMMAND_EXIT_CODE="0"]

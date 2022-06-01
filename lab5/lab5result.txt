@@ -1,0 +1,41 @@
+Script started on 2020-07-11 02:22:55-07:00 [TERM="xterm" TTY="/dev/pts/0" COLUMNS="80" LINES="14"]
+]0;006973376@csusb.edu@jb358-2:~/cse330/lab5[006973376@csusb.edu@jb358-2 lab5]$ ./lab5
+Enqueue positive numbers (Enter -1 to stop): 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+-1
+print queue: 1, 2, 3, 4, 5, 6, 7, 8, 9, 
+How many numbers to be removed from queue: 5
+print queue: 6, 7, 8, 9, 
+
+Enqueue string (enter exit to stop): 
+aaa
+bbb
+ccc
+ddd
+eee
+fff
+exit
+print queue: aaa, bbb, ccc, ddd, eee, fff, 
+How many strings to be removed from queue : 3
+print queue: ddd, eee, fff, 
+
+Enqueue employee's name, id. dept (enter id 0 to stop): bob 1 CSE
+Enqueue employee's name, id. dept (enter id 0 to stop): mary 2 Math
+Enqueue employee's name, id. dept (enter id 0 to stop): joe 3 Art
+Enqueue employee's name, id. dept (enter id 0 to stop): Ellen 4 CSE
+Enqueue employee's name, id. dept (enter id 0 to stop): no 0 no
+print queue:  1 bob CSE, 2 mary Math, 3 joe Art, 4 Ellen CSE, 
+How many strings to be removed from queue: 2
+print queue: 3 joe Art, 4 Ellen CSE, 
+]0;006973376@csusb.edu@jb358-2:~/cse330/lab5[006973376@csusb.edu@jb358-2 lab5]$ exit
+exit
+
+Script done on 2020-07-11 02:24:34-07:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,34 @@
+Script started on 2020-06-30 21:06:28-07:00 [TERM="xterm" TTY="/dev/pts/0" COLUMNS="168" LINES="44"]
+]0;006973376@csusb.edu@jb358-2:~/cse330/Lab2[006973376@csusb.edu@jb358-2 Lab2]$ vim Lab2.cpp[K./Lab2
+Enter the student id: 1102
+Enter the student name: Smith
+The student is added
+
+Enter the student id: 1103
+Enter the student name: Alice
+The student is added
+
+Enter the student id: 1104
+Enter the student name: Tom
+The student is added
+
+Enter the student id: 1101
+Enter the student name: Taylor
+The student is added
+
+Enter the student id: 0
+
+Here is the list of student1101 Taylor
+1104 Tom
+1103 Alice
+1102 Smith
+
+THe student id to be removed: 1102
+
+Here is the list of student1101 Taylor
+1104 Tom
+1103 Alice
+]0;006973376@csusb.edu@jb358-2:~/cse330/Lab2[006973376@csusb.edu@jb358-2 Lab2]$ exit
+exit
+
+Script done on 2020-06-30 21:08:25-07:00 [COMMAND_EXIT_CODE="0"]
